@@ -22,7 +22,7 @@
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 hello-react <a name="about-project"></a>
-This is the react front end of the project. the Backend is available [here](https://github.com/Ali-0111/hello-rails-back-end/tree/build-api)
+This is the react front end of the project. the Backend is available [here](https://github.com/Ali-0111/hello_rails_backend/tree/api)
 
 ## 🛠 Built With <a name="built-with"></a>
 
